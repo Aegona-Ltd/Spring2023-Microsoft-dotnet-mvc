@@ -16,7 +16,7 @@ body {
 #btn-submit{
     
     background: #1a73e8;
-    
+    margin-left: 150px;
     color: #fff;
     height: 40px;
     width: 85px;
@@ -24,4 +24,9 @@ body {
 #btn-submit:hover{
     opacity: 0.85;
     
+}
+.g-recaptcha{
+    width: 100%;
+    margin-left: 70px;
+    padding: 5px;
 }
