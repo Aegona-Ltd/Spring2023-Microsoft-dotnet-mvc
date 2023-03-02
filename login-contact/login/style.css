@@ -1,0 +1,253 @@
+@use postcss-preset-env {
+  stage: 0;
+}
+
+/* config.css */
+
+:root {
+  --baseColor: #606468;
+}
+
+
+/* helpers/align.css */
+
+.align {
+  display: grid;
+  place-items: center;
+}
+
+.grid {
+  inline-size: 90%;
+  margin-inline: auto;
+  max-width: 25%;
+}
+
+
+
+/* helpers/hidden.css */
+
+.hidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+/* helpers/icon.css */
+
+:root {
+  --iconFill: var(--baseColor);
+}
+
+.icons {
+  display: none;
+}
+
+.icon {
+  block-size: 1em;
+  display: inline-block;
+  fill: var(--iconFill);
+  inline-size: 1em;
+  vertical-align: middle;
+}
+
+/* layout/base.css */
+.error{
+  color:rgb(230, 68, 82) ;
+  background-color: #F8F8F9;
+  border: 1px solid #E0B4B4 ;
+}
+:root {
+  --htmlFontSize: 100%;
+
+  --bodyBackgroundColor: #2c3338;
+  --bodyColor: var(--baseColor);
+  --bodyFontFamily: "Open Sans";
+  --bodyFontFamilyFallback: sans-serif;
+  --bodyFontSize: 1.05rem;
+  --bodyFontWeight: 400;
+  --bodyLineHeight: 1.5;
+}
+h4{
+  color: #00B5AD;
+  text-align: center;
+  
+}
+* {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+
+}
+
+body {
+  background-color: #dadada;
+  color: var(--bodyColor);
+  font-family: var(--bodyFontFamily), var(--bodyFontFamilyFallback);
+  font-size: var(--bodyFontSize);
+  font-weight: var(--bodyFontWeight);
+  line-height: var(--bodyLineHeight);
+  margin: 0;
+  min-block-size: 100vh;
+}
+
+/* modules/anchor.css */
+
+:root {
+  --anchorColor: #eee;
+}
+
+a {
+  color: var(--anchorColor);
+  outline: 0;
+  text-decoration: none;
+}
+
+a:focus,
+a:hover {
+  text-decoration: underline;
+}
+
+/* modules/form.css */
+
+:root {
+  --formGap: 0.875rem;
+}
+
+input {
+  background-image: none;
+  border: 0;
+  color: inherit;
+  font: inherit;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  transition: background-color 0.3s;
+}
+
+input[type="submit"] {
+  cursor: pointer;
+}
+
+.ui_message{
+  display: block;
+  background-color: #eee;
+  margin-top: 50px;
+  padding: 20px;
+  text-align: center;
+
+}
+.ui_message a {
+  color: #4183C4;
+}
+.form {
+
+  display: grid;
+  gap: var(--formGap);
+  background-color: #F8F8F9;
+  padding: 25px;
+}
+
+.form input[type="password"],
+.form input[type="text"],
+.form input[type="submit"] {
+  inline-size: 100%;
+}
+
+.form__field {
+  display: flex;
+  flex-direction: row 
+ 
+}
+.footer{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.9em;
+  gap: 10px;
+  
+}
+
+.form__input {
+  flex: 1;
+  background-color: white;
+}
+
+/* modules/login.css */
+
+:root {
+  --loginBorderRadus: 0.25rem;
+  --loginColor: #eee;
+
+  --loginInputBackgroundColor: #eee;
+  --loginInputHoverBackgroundColor: #eee;
+
+  --loginLabelBackgroundColor:  #eee;
+
+  --loginSubmitBackgroundColor: #00B5AD;
+  --loginSubmitColor: #eee;
+  --loginSubmitHoverBackgroundColor: #00B5AD;
+}
+
+.login {
+  color: var(--loginColor);
+  color: black;
+}
+
+.login label,
+.login input[type="text"],
+.login input[type="password"],
+.login input[type="submit"] {
+  border-radius: var(--loginBorderRadus);
+  padding: 1rem;
+}
+
+.login label {
+  background-color: var(--loginLabelBackgroundColor);
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+  padding-inline: 1.25rem;
+}
+
+.login input[type="password"],
+.login input[type="text"] {
+  background-color: var(--loginInputBackgroundColor);
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+}
+
+.login input[type="password"]:focus,
+.login input[type="password"]:hover,
+.login input[type="text"]:focus,
+.login input[type="text"]:hover {
+  background-color: var(--loginInputHoverBackgroundColor);
+}
+
+.login input[type="submit"] {
+  background-color: var(--loginSubmitBackgroundColor);
+  color: var(--loginSubmitColor);
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.login input[type="submit"]:focus,
+.login input[type="submit"]:hover {
+  background-color: var(--loginSubmitHoverBackgroundColor);
+}
+
+/* modules/text.css */
+
+p {
+  margin-block: 1.5rem;
+}
+
+.text--center {
+  text-align: center;
+}
