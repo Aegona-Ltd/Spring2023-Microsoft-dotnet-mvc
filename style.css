@@ -1,0 +1,27 @@
+form {
+    border: 1px solid #063187;
+    border-radius: 5px;
+    padding: 30px;
+    width: 500px;
+}
+
+body {
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+
+}
+#btn-submit{
+    
+    background: #1a73e8;
+    
+    color: #fff;
+    height: 40px;
+    width: 85px;
+}
+#btn-submit:hover{
+    opacity: 0.85;
+    
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="semantic.min.css">
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"
+        integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src="semantic.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <form class="ui form">
+        <div class="field">
+            <label>First Name</label>
+            <input id="username" type="text" name="first-name" placeholder="First Name">
+        </div>
+        <div class="field">
+            <label>Last Name</label>
+            <input id="password" type="password" name="last-name" placeholder="Last Name">
+        </div>
+        <div class="field">
+            <div class="ui checkbox">
+                <input type="checkbox" tabindex="0">
+                <label>I agree to the Terms and Conditions</label>
+            </div>
+        </div>
+        <button id="btn-submit" class="ui_button" type="submit">Submit</button>
+    </form>
+</body>
+<script>
+    $('.ui.form')
+        .form({
+            fields: {
+                username: {
+                    identifier: 'username',
+                    rules: [{
+                        type: 'empty',
+                        prompt: 'Please enter a username'
+                    }]
+                },
+                password: {
+                    identifier: 'password',
+                    rules: [{
+                            type: 'empty',
+                            prompt: 'Please enter a password'
+                        },
+                        {
+                            type: 'minLength[6]',
+                            prompt: 'Your password must be at least {ruleValue} characters'
+                        }
+                    ]
+                },
+            }
+        });
+    var hi = document.getElementById('btn-submit');
+    var username = document.getElementById('username');
+    var password = document.getElementById('password');
+   
+    
+    hi.addEventListener('click', function() {
+        if(username.value == 'admin')
+            window.location.assign("index2.html");
+    }); 
+
+</script>
+
+</html>
