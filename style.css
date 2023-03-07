@@ -30,3 +30,8 @@ body {
     margin-left: 70px;
     padding: 5px;
 }
+.errorr{
+    color:rgb(230, 68, 82) ;
+    background-color: #F8F8F9;
+    border: 1px solid #E0B4B4 ;
+}
