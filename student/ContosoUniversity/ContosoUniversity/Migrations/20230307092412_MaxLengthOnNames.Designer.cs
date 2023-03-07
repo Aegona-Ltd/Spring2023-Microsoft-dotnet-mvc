@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ContosoUniversity.Migrations
 {
     [DbContext(typeof(SchoolContext))]
-    [Migration("20230307063454_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20230307092412_MaxLengthOnNames")]
+    partial class MaxLengthOnNames
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
