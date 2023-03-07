@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "eWVL6dSfMqFhGyXaHw8oP096zGAjpjFbeAFtUUHaz68MhKx9h29lDSuyNcr8z9kTBOIwfOS5Hal99BGpc9iqFw==",
+  "dgSpecHash": "Gy69ZIysYvduCgpjnw43TnYUlSg2iBIZMBgcmm+mzKnsD0U2CepflZcr9RRMcCOZAksjBeElL+W/oywaUL4vrQ==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\nhap1234\\student\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\nhap1234\\Spring2023-Microsoft-dotnet-mvc\\student\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\namng\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
-    "C:\\Users\\namng\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.0\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.0.nupkg.sha512",
+    "C:\\Users\\namng\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.14\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.14.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.build\\17.3.2\\microsoft.build.17.3.2.nupkg.sha512",
