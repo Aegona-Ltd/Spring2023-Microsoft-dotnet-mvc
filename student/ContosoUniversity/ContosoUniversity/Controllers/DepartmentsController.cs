@@ -168,7 +168,7 @@ namespace ContosoUniversity.Controllers
             ViewData["InstructorID"] = new SelectList(_context.Instructors, "ID", "FullName", departmentToUpdate.InstructorID);
             return View(departmentToUpdate);
         }
-        // GET: Departments/Delete/5
+        // GET: Departments/DeleteDelete/5
         public async Task<IActionResult> Delete(int? id, bool? concurrencyError)
         {
             if (id == null)
