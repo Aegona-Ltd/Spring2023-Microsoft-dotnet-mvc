@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UBlHjawJTYmWLmnGk52Gnjwve3VMscMN28RlSKxE5152st6TGzxZ8KMBPHk2+vJRtFNUXAtdc9z25oJ6Qgm5Pw==",
+  "dgSpecHash": "tZjhNPewwjD/rsuFcnI/QUedwqU2y3gC9AEcz2K9UB/QEXSwPcE4pkJ4rpLE06I9d9Tchw9CEul695bzwUFU9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\namng\\OneDrive\\Máy tính\\12345\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+  "projectFilePath": "C:\\Users\\namng\\OneDrive\\Máy tính\\Spring2023-Microsoft-dotnet-mvc\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.32\\microsoft.aspnetcore.cryptography.internal.3.1.32.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.32\\microsoft.aspnetcore.cryptography.keyderivation.3.1.32.nupkg.sha512",

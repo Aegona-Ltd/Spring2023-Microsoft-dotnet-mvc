@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lW6aT8+AcvnaavJeLnu9WsYAIZKafW85y0MvWUd8TRWoJiiDRBuyVLOxa0eMoT/DvPzAeQL+BYWr+tHBilcqIw==",
+  "dgSpecHash": "evqYcicvmAlsfEHf6Az8ltHRL2Tte3A0ek4pOUdgOn2FdF3Znja0/Io+rMaBmisxCWvJGwSTjZKI4crhgjJE5w==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\nhap1234\\ASP movie\\AspMovie\\AspMovie\\AspMovie.csproj",
+  "projectFilePath": "C:\\Users\\namng\\OneDrive\\Máy tính\\Spring2023-Microsoft-dotnet-mvc\\ASP movie\\AspMovie\\AspMovie\\AspMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\namng\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
