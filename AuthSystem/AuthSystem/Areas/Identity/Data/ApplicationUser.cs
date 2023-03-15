@@ -15,8 +15,15 @@ namespace AuthSystem.Areas.Identity.Data
         public string FirtsName { get; set; }
 
 
+      
+
         [PersonalData]
         [Column(TypeName = "nvarchar(100)")]
         public string LastName { get; set; }
+
+
+        [PersonalData]
+        [Column(TypeName = "nvarchar(100)")]
+        public string Address { get; set; }
     }
 }
