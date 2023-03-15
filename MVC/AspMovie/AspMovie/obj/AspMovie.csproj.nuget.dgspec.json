@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\nhap1234\\MVC\\AspMovie\\AspMovie\\AspMovie.csproj": {}
+    "C:\\Users\\namng\\OneDrive\\Máy tính\\Spring2023-Microsoft-dotnet-mvc\\MVC\\AspMovie\\AspMovie\\AspMovie.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\nhap1234\\MVC\\AspMovie\\AspMovie\\AspMovie.csproj": {
+    "C:\\Users\\namng\\OneDrive\\Máy tính\\Spring2023-Microsoft-dotnet-mvc\\MVC\\AspMovie\\AspMovie\\AspMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\nhap1234\\MVC\\AspMovie\\AspMovie\\AspMovie.csproj",
+        "projectUniqueName": "C:\\Users\\namng\\OneDrive\\Máy tính\\Spring2023-Microsoft-dotnet-mvc\\MVC\\AspMovie\\AspMovie\\AspMovie.csproj",
         "projectName": "AspMovie",
-        "projectPath": "C:\\xampp\\htdocs\\nhap1234\\MVC\\AspMovie\\AspMovie\\AspMovie.csproj",
+        "projectPath": "C:\\Users\\namng\\OneDrive\\Máy tính\\Spring2023-Microsoft-dotnet-mvc\\MVC\\AspMovie\\AspMovie\\AspMovie.csproj",
         "packagesPath": "C:\\Users\\namng\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\nhap1234\\MVC\\AspMovie\\AspMovie\\obj\\",
+        "outputPath": "C:\\Users\\namng\\OneDrive\\Máy tính\\Spring2023-Microsoft-dotnet-mvc\\MVC\\AspMovie\\AspMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
