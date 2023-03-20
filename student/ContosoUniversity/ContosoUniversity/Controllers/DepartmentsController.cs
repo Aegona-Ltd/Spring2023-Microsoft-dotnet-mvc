@@ -23,7 +23,7 @@ namespace ContosoUniversity.Controllers
         public async Task<IActionResult> Index(string searchString, string sortOrder, string currentFilter, int? pageNumber)
         {
             ViewData["CurrentSoft"] = sortOrder;
-            ViewData["NamSortParm"] = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
+            ViewData["NamSortParm"] = String.IsNullOrEmpty(sortOrder) ? "" : "";
             ViewData["CurrentFilter"] = searchString;
 
             var deparment = from m in _context.Departments
@@ -50,7 +50,7 @@ namespace ContosoUniversity.Controllers
                     deparment = deparment.OrderByDescending(s => s.Name);
                     break;
                 default:
-                    deparment = deparment.OrderBy(s => s.DepartmentID);
+                    deparment = deparment.OrderBy(s => s.Name);
                     break;
             }
             int pageSize = 3;

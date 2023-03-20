@@ -20,12 +20,44 @@ namespace ContosoUniversity.Controllers
         }
 
         // GET: Courses
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string sortOrder, string searchString, string currentFilter, int? pageNumber)
         {
-            var courses = _context.Courses
-                .Include(c => c.Department)
-                .AsNoTracking();
-            return View(await courses.ToListAsync());
+            //var courses = _context.Courses
+            //    .Include(c => c.Department)
+            //    .AsNoTracking();
+            ViewData["TitleSoft"] = String.IsNullOrEmpty(sortOrder) ? "title_desc":"";
+            ViewData["CurrentFilter"] = searchString;
+            ViewData["CurrentSoft"] = sortOrder;
+            var coursess = from s in _context.Courses
+                          select s;
+            if(searchString != null)
+            {
+                pageNumber = 1;
+            }
+            else
+            {
+                searchString = currentFilter;
+            }
+            if(!String.IsNullOrEmpty(searchString))
+            {
+                coursess = coursess.Where(s => s.Title.Contains(searchString));
+            }
+            else
+            {
+                searchString = currentFilter;
+            }
+            switch(sortOrder) {
+                case "title_desc":
+                    coursess = coursess.OrderByDescending(s => s.Title);
+                    break;
+                default:
+                    coursess = coursess.OrderBy(s => s.Title);
+                    break;
+            }
+
+            int pageSize = 4;
+
+            return View(await PaginatedList<Course>.CreateAsync(coursess.AsNoTracking(),pageNumber ?? 1,pageSize));
         }
 
         // GET: Courses/Details/5

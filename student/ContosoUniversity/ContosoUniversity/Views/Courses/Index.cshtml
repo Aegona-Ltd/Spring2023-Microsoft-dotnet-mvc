@@ -1,4 +1,4 @@
-﻿@model IEnumerable<ContosoUniversity.Models.Course>
+﻿@model PaginatedList<ContosoUniversity.Models.Course>
 
 @{
     ViewData["Title"] = "Coures";
@@ -8,20 +8,29 @@
 <p>
     <a class="btn btn-success" asp-action="Create">Create New</a>
 </p>
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by Name : <input type="text" name="searchString" value="@ViewData["CurrentFilter"]"/>
+            <input  class="btn btn-danger" type="submit" value="Search" /> 
+            <a class="btn btn-info" asp-action="Index"> Back to full List</a> 
+        </p>
+    </div>
+</form>
 <table class="table table-success table-striped">
     <thead>
         <tr >
             <th>
-                @Html.DisplayNameFor(model => model.CourseID)
+               CourseID
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Title)
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["TitleSoft"]" asp-route-currentFilter="@ViewData["CurrentFilter"]">Titles</a>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Credits)
+               Credits
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Department)
+                Department
             </th>
             <th></th>
         </tr>
@@ -50,3 +59,22 @@
 }
     </tbody>
 </table>
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+
+<a asp-action="Index"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex - 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-outline-success @prevDisabled">
+    Previous
+</a>
+<a asp-action="Index"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex + 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-outline-success @nextDisabled">
+    Next
+</a>
