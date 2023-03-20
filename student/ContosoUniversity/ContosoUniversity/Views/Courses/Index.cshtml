@@ -4,14 +4,13 @@
     ViewData["Title"] = "Coures";
 }
 
-<h1>Coures</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a class="btn btn-success" asp-action="Create">Create New</a>
 </p>
-<table class="table">
+<table class="table table-success table-striped">
     <thead>
-        <tr>
+        <tr >
             <th>
                 @Html.DisplayNameFor(model => model.CourseID)
             </th>
@@ -43,9 +42,9 @@
                 @Html.DisplayFor(modelItem => item.Department.Name)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.CourseID">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.CourseID">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.CourseID">Delete</a>
+                <a class="btn btn-success" asp-action="Edit" asp-route-id="@item.CourseID">Edit</a> |
+                <a class="btn btn-warning" asp-action="Details" asp-route-id="@item.CourseID">Details</a> |
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.CourseID">Delete</a>
             </td>
         </tr>
 }

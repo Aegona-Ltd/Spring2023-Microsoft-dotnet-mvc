@@ -4,12 +4,12 @@
     ViewData["Title"] = "Intructors";
 }
 
-<h1>Index</h1>
+
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a class="btn btn-success" asp-action="Create">Create New</a>
 </p>
-<table class="table">
+<table class="table table-bordered border-primary">
     <thead>
         <tr>
             <th>LastName</th>
@@ -51,10 +51,10 @@
                     }
                 </td>
                 <td>
-                    <a asp-action="Index" asp-route-id="@item.ID">Select</a> |
-                    <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                    <a class="btn btn-dark" asp-action="Index" asp-route-id="@item.ID">Select</a> |
+                    <a class="btn btn-success" asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                    <a class="btn btn-warning" asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.ID">Delete</a>
                 </td>
             </tr>
         }
@@ -63,7 +63,7 @@
 @if (Model.Courses != null)
 {
     <h3>Courses Taught by Selected Instructor</h3>
-    <table class="table">
+    <table class="table table-warning">
         <tr>
             <th></th>
             <th>Number</th>
@@ -79,7 +79,7 @@
                 selectedRow = "success";
             }
             <tr class="@selectedRow">
-                <td>
+                <td class="btn btn-danger">
                     @Html.ActionLink("Select", "Index", new { courseID = item.CourseID })
                 </td>
                 <td>

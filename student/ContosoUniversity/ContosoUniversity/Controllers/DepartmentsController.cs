@@ -20,10 +20,41 @@ namespace ContosoUniversity.Controllers
         }
 
         // GET: Departments
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString, string sortOrder, string currentFilter, int? pageNumber)
         {
-            var schoolContext = _context.Departments.Include(d => d.Administrator);
-            return View(await schoolContext.ToListAsync());
+            ViewData["CurrentSoft"] = sortOrder;
+            ViewData["NamSortParm"] = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
+            ViewData["CurrentFilter"] = searchString;
+
+            var deparment = from m in _context.Departments
+                            select m;
+            if(searchString != null)
+            {
+                pageNumber = 1;
+            }
+            else
+            {
+                searchString = currentFilter;
+            }
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                deparment = deparment.Where(s => s.Name.Contains(searchString));
+            }
+            else
+            {
+                searchString = currentFilter;
+            }
+            switch (sortOrder)
+            {
+                case "name_desc":
+                    deparment = deparment.OrderByDescending(s => s.Name);
+                    break;
+                default:
+                    deparment = deparment.OrderBy(s => s.DepartmentID);
+                    break;
+            }
+            int pageSize = 3;
+            return View(await PaginatedList<Department>.CreateAsync(deparment.AsNoTracking(),pageNumber ?? 1,pageSize));
         }
 
         // GET: Departments/Details/5
@@ -225,7 +256,7 @@ namespace ContosoUniversity.Controllers
 
         private bool DepartmentExists(int id)
         {
-          return _context.Departments.Any(e => e.DepartmentID == id);
+            return _context.Departments.Any(e => e.DepartmentID == id);
         }
     }
 }
