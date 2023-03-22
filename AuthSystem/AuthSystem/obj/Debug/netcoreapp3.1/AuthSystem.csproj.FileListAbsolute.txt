@@ -166,6 +166,12 @@ C:\Users\namng\OneDrive\Máy tính\12345\AuthSystem\AuthSystem\obj\Debug\netcore
 C:\Users\namng\OneDrive\Máy tính\12345\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\namng\OneDrive\Máy tính\12345\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\namng\OneDrive\Máy tính\12345\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\AuthSystem.StaticWebAssets.xml
@@ -212,7 +218,6 @@ C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\Au
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
@@ -234,7 +239,6 @@ C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\Au
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
@@ -253,7 +257,6 @@ C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\Au
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
@@ -291,7 +294,6 @@ C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\Au
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
@@ -314,8 +316,17 @@ C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\Au
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\AuthSystem.TagHelpers.output.cache
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\AuthSystem.RazorCoreGenerate.cache
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\UserManager\Add.cshtml.g.cs
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\UserManager\Delete.cshtml.g.cs
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\UserManager\Role.cshtml.g.cs
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\UserManager\_StatusMessage.cshtml.g.cs
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\UserManager\_ViewImports.cshtml.g.cs
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\User\User.cshtml.g.cs
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\User\_StatusMessage.cshtml.g.cs
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\User\_ViewImports.cshtml.g.cs
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_AuthLayout.cshtml.g.cs
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
@@ -324,9 +335,7 @@ C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\Au
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\AuthSystem.RazorTargetAssemblyInfo.cache
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\AuthSystem.RazorTargetAssemblyInfo.cs
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\AuthSystem.Views.pdb

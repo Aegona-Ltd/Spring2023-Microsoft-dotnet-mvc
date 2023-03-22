@@ -1,6 +1,9 @@
+using AuthSystem.Areas.Identity.Data;
+using AuthSystem.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -25,6 +28,15 @@ namespace AuthSystem
         {
             services.AddControllersWithViews();
             services.AddRazorPages();
+            services.AddDefaultIdentity<ApplicationUser>(options =>
+            {
+                options.Password.RequireUppercase = false;
+                options.Password.RequireLowercase = false;
+                options.Password.RequireNonAlphanumeric = false;
+                options.SignIn.RequireConfirmedAccount = false;
+            }).AddRoles<IdentityRole>()
+                  .AddEntityFrameworkStores<AuthDbContext>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -15,19 +15,14 @@ namespace AuthSystem.Areas.Identity
     {
         public void Configure(IWebHostBuilder builder)
         {
-            builder.ConfigureServices((context, services) => {
+            builder.ConfigureServices((context, services) =>
+            {
                 services.AddDbContext<AuthDbContext>(options =>
                     options.UseSqlServer(
                         context.Configuration.GetConnectionString("AuthDbContextConnection")));
 
-                services.AddDefaultIdentity<ApplicationUser>(options =>
-                {
-                    options.Password.RequireUppercase = false;
-                    options.Password.RequireLowercase = false;
-                    options.Password.RequireNonAlphanumeric = false;
-                    options.SignIn.RequireConfirmedAccount = false;
-                })
-                    .AddEntityFrameworkStores<AuthDbContext>();
+              
+         
             });
         }
     }
