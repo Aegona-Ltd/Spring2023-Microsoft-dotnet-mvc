@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace AuthSystem.Areas.Identity.Pages.Role
 {
+    
     public class RoleModel : PageModel
     {
         private readonly RoleManager<IdentityRole> _roleManager;

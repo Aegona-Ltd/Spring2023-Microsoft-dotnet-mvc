@@ -3,11 +3,15 @@ i:{00000000-0000-0000-0000-000000000000}:AuthSystem.sln
 ++AuthSystem
 i:{00000000-0000-0000-0000-000000000000}:AuthSystem
 ++Connected Services 
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>695
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>759
 ++Dependencies
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>694
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>758
 ++Properties
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\properties\
+++launchSettings.json
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\properties\launchsettings.json
+++serviceDependencies.json
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\properties\servicedependencies.json
 ++wwwroot
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\wwwroot\
 ++css
@@ -34,18 +38,54 @@ i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spri
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\
 ++Account
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\
+++Manage
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\manage\
+++_ManageNav.cshtml
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\manage\_managenav.cshtml
+++_StatusMessage.cshtml
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\manage\_statusmessage.cshtml
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\user\_statusmessage.cshtml
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\usermanager\_statusmessage.cshtml
 ++_ViewImports.cshtml
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\manage\_viewimports.cshtml
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\_viewimports.cshtml
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\user\_viewimports.cshtml
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\usermanager\_viewimports.cshtml
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\_viewimports.cshtml
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\views\_viewimports.cshtml
+++ManageNavPages.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\manage\managenavpages.cs
+++SetPassword.cshtml
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\manage\setpassword.cshtml
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\user\setpassword.cshtml
 ++Login.cshtml
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\login.cshtml
-++Login.cshtml.cs
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\login.cshtml.cs
 ++Register.cshtml
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\register.cshtml
-++Register.cshtml.cs
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\register.cshtml.cs
+++User
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\user\
+++AddUserRole.cshtml
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\user\adduserrole.cshtml
+++AddUserRole.cshtml.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\user\adduserrole.cshtml.cs
+++User.cshtml
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\user\user.cshtml
+++User.cshtml.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\user\user.cshtml.cs
+++UserManager
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\usermanager\
+++Add.cshtml
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\usermanager\add.cshtml
+++Add.cshtml.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\usermanager\add.cshtml.cs
+++AuthoizeAttribute.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\usermanager\authoizeattribute.cs
+++Delete.cshtml
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\usermanager\delete.cshtml
+++Role.cshtml
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\usermanager\role.cshtml
+++Role.cshtml.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\usermanager\role.cshtml.cs
 ++_AuthLayout.cshtml
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\_authlayout.cshtml
 ++_ValidationScriptsPartial.cshtml
@@ -60,16 +100,20 @@ i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spri
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\controllers\
 ++HomeController.cs
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\controllers\homecontroller.cs
+++DTO
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\dto\
+++HomeDTO.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\dto\homedto.cs
 ++Migrations
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\migrations\
-++20230314093555_Initial-Create.cs
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\migrations\20230314093555_initial-create.cs
-++20230314093555_Initial-Create.Designer.cs
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\migrations\20230314093555_initial-create.designer.cs
+++20230315083527_Initial-Create.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\migrations\20230315083527_initial-create.cs
 ++AuthDbContextModelSnapshot.cs
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\migrations\authdbcontextmodelsnapshot.cs
 ++Models
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\models\
+++Article.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\models\article.cs
 ++Views
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\views\
 ++Home
@@ -86,8 +130,6 @@ i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spri
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\views\shared\_loginpartial.cshtml
 ++appsettings.json
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\appsettings.json
-++appsettings.Development.json
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\appsettings.development.json
 ++Program.cs
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\program.cs
 ++ScaffoldingReadMe.txt
@@ -95,17 +137,15 @@ i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spri
 ++Startup.cs
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\startup.cs
 ++SQL Server Express LocalDB (Local) (ConnectionStrings:AuthDbContextConnection)
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>713
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>777
 ++Analyzers
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:analyzers
 ++Frameworks
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:frameworks
 ++Packages
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:packages
-++launchSettings.json
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\properties\launchsettings.json
-++serviceDependencies.json
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\properties\servicedependencies.json
+++serviceDependencies.local.json
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\properties\servicedependencies.local.json
 ++site.css
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\wwwroot\css\site.css
 ++site.js
@@ -118,6 +158,19 @@ i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spri
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\wwwroot\lib\jquery-validation\
 ++jquery-validation-unobtrusive
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\wwwroot\lib\jquery-validation-unobtrusive\
+++SetPassword.cshtml.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\manage\setpassword.cshtml.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\user\setpassword.cshtml.cs
+++Login.cshtml.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\login.cshtml.cs
+++Register.cshtml.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\account\register.cshtml.cs
+++Delete.cshtml.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\areas\identity\pages\usermanager\delete.cshtml.cs
+++20230315083527_Initial-Create.Designer.cs
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\migrations\20230315083527_initial-create.designer.cs
+++appsettings.Development.json
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\appsettings.development.json
 ++Microsoft.AspNetCore.Analyzers
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
 ++Microsoft.AspNetCore.Components.Analyzers
@@ -135,17 +188,15 @@ i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spri
 ++Microsoft.NETCore.App
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\microsoft.netcore.app
 ++Microsoft.AspNetCore.Identity.EntityFrameworkCore (3.1.32)
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>709
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>773
 ++Microsoft.AspNetCore.Identity.UI (3.1.32)
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>712
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>776
 ++Microsoft.EntityFrameworkCore.SqlServer (3.1.32)
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>708
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>772
 ++Microsoft.EntityFrameworkCore.Tools (3.1.32)
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>710
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>774
 ++Microsoft.VisualStudio.Web.CodeGeneration.Design (3.1.5)
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>711
-++serviceDependencies.local.json
-i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\properties\servicedependencies.local.json
+i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:>775
 ++dist
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\wwwroot\lib\bootstrap\dist\
 i:{5069a59b-816a-41b1-ab57-83b97fbd1493}:c:\users\namng\onedrive\máy tính\spring2023-microsoft-dotnet-mvc\authsystem\authsystem\wwwroot\lib\jquery\dist\

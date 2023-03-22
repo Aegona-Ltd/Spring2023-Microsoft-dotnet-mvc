@@ -1,5 +1,6 @@
 ﻿@page "/admin/menber"
 @namespace AuthSystem.Areas.Identity.Pages.User
+@using App.Models.User
 @model UserModel
 @{
     ViewData["Title"] = "Danh sách các thành viên";
@@ -9,9 +10,9 @@
 
 <table class="table table-striped">
     <tr>
-        <th>UserName</th>
-        <th>Roles</th>
-        <th>Actions</th>
+        <th>Tên User</th>
+        <th>Vai trò</th>
+        <th>Tác vụ</th>
     </tr>
     @foreach (var user in @Model.users)
     {
@@ -20,8 +21,8 @@
             <td>@user.listroles</td>
             <td>
                 <form method="POST" class="d-inline">
-                <button name="Input.ID" value="@user.Id" class="btn btn-primary btn-sm" 
-                        asp-page="./AddUserRole">Cập nhật Role</button>
+                <button name="Input.ID" value="@user.Id" class="btn btn-success btn-sm" 
+                        asp-page="./AddUserRole">Cập nhật</button>
                 </form>
             </td>
         </tr>

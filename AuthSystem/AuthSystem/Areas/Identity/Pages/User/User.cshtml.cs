@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace AuthSystem.Areas.Identity.Pages.User
+namespace App.Models.User
 {
     public class UserModel : PageModel
     {
