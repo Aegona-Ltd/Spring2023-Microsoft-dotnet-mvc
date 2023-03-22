@@ -2,18 +2,20 @@
 @using AuthSystem.Areas.Identity.Pages.Role
 @model RoleModel
 
-<h3>Danh sách các role</h1>
+<h3>Danh sách các quyền</h1>
 <partial name="_StatusMessage" model="@Model.StatusMessage" />
 
 <form method="POST" class="my-1 d-inline">
-    <button class="btn btn-secondary" asp-page="./Add" 
-            asp-page-handler="StartNewRole">Thêm mới Role</button>
+    <button class="btn btn-outline-success" asp-page="./Add" 
+            asp-page-handler="StartNewRole">Thêm mới</button>
 </form>
-<a class="btn btn-secondary" asp-page="../User/User">Gán role cho người dùng</a>
+<a class="btn btn-outline-success" asp-page="../User/User">Gán quyền cho người dùng</a>
+<br />
+<br />
 
-<table class="table">
+<table class="table table-success table-striped">
   <tr>
-    <th>Role ID</th>
+    <th>Số thứ tự</th>
     <th>Tên</th>
     <th>Tác vụ</th>
   </tr>
@@ -24,12 +26,12 @@
         <td>@role.Name</td>
         <td>
             <form method="POST" class="d-inline">
-              <button name="Input.ID" value="@role.Id" class="btn btn-success btn-sm" 
-                      asp-page="./Add" asp-page-handler="StartUpdate">Cập nhật Role</button>
+              <button name="Input.ID" value="@role.Id" class="btn btn-warning" 
+                      asp-page="./Add" asp-page-handler="StartUpdate">Cập nhật</button>
             </form>
             <form method="POST" class="d-inline">
-              <button name="Input.ID" value="@role.Id" class="btn btn-success btn-sm" 
-                      asp-page="./Delete">Xóa Role</button>
+              <button name="Input.ID" value="@role.Id" class="btn btn-danger"
+                      asp-page="./Delete">Xóa</button>
             </form>
         </td>
       </tr>

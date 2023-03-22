@@ -1,4 +1,5 @@
 ﻿using AuthSystem.Areas.Identity.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace AuthSystem.Areas.Identity.Pages.Role
 {
-    
+    [Authorize(Roles = "admin")]
     public class RoleModel : PageModel
     {
         private readonly RoleManager<IdentityRole> _roleManager;

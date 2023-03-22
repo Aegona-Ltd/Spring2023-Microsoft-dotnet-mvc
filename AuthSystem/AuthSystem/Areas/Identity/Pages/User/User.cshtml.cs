@@ -1,5 +1,6 @@
 ﻿
 using AuthSystem.Areas.Identity.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -11,6 +12,7 @@ using System.Threading.Tasks;
 
 namespace App.Models.User
 {
+    [Authorize(Roles = "admin")]
     public class UserModel : PageModel
     {
         const int USER_PER_PAGE = 10;
