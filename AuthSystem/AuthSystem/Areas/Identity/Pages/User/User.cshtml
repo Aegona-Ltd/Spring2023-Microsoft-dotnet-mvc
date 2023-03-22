@@ -23,6 +23,7 @@
                 <form method="POST" class="d-inline">
                 <button name="Input.ID" value="@user.Id" class="btn btn-success btn-sm" 
                         asp-page="./AddUserRole">Cập nhật</button>
+                <a class="btn btn-success btn-sm" asp-page="./SetPassword" asp-route-id="@user.Id">Đặt mật khẩu</a>
                 </form>
             </td>
         </tr>

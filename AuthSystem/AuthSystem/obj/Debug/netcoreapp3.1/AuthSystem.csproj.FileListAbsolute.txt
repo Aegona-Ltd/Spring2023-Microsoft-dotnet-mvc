@@ -346,3 +346,5 @@ C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\Au
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\User\AddUserRole.cshtml.g.cs
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
 C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\namng\OneDrive\Máy tính\Spring2023-Microsoft-dotnet-mvc\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\User\SetPassword.cshtml.g.cs
