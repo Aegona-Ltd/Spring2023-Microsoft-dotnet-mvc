@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("eTickets")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cfb7178db65566e88159526cec736c6a3e16898")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eTickets.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

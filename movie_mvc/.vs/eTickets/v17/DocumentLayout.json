@@ -1,0 +1,902 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\services\\actorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\services\\actorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\services\\iactorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\services\\iactorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\properties\\servicedependencies\\etickets-app - web deploy\\profile.arm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\properties\\servicedependencies\\etickets-app - web deploy\\profile.arm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\etickets.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\etickets.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\views\\orders\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\orders\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\views\\account\\registercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\account\\registercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\views\\account\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\account\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\migrations\\20210926145215_shoppingcartitems_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\migrations\\20210926145215_shoppingcartitems_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\migrations\\20210521151534_namefixproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\migrations\\20210521151534_namefixproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\migrations\\20210521151101_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\migrations\\20210521151101_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\viewmodels\\newmovievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\viewmodels\\newmovievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\viewmodels\\newmoviedropdownsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\viewmodels\\newmoviedropdownsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\viewcomponents\\shoppingcartsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\viewcomponents\\shoppingcartsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\static\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\static\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\services\\cinemasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\services\\cinemasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\enums\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\enums\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\cart\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\cart\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\controllers\\cinemascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\cinemascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\migrations\\20210926144211_order_and_orderitem_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\migrations\\20210926144211_order_and_orderitem_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\migrations\\20211005103511_identity_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\migrations\\20211005103511_identity_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\wwwroot\\lib\\jquery-validation-unobtrusive\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\wwwroot\\lib\\jquery-validation-unobtrusive\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\wwwroot\\lib\\jquery\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\wwwroot\\lib\\jquery\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\base\\ientitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\base\\ientitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\base\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\base\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\base\\entitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\base\\entitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\services\\producersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\services\\producersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\services\\moviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\services\\moviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\services\\iproducersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\services\\iproducersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\services\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\services\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\services\\imoviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\services\\imoviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\services\\icinemasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\services\\icinemasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|d:\\gitlab\\spring2023-microsoft-dotnet-mvc\\movie_mvc\\etickets\\data\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "eTickets",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\eTickets.csproj",
+              "RelativeDocumentMoniker": "eTickets\\eTickets.csproj",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\eTickets.csproj",
+              "RelativeToolTip": "eTickets\\eTickets.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T16:49:43.84Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Program.cs",
+              "RelativeDocumentMoniker": "eTickets\\Program.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Program.cs",
+              "RelativeToolTip": "eTickets\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:44:33.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Startup.cs",
+              "RelativeDocumentMoniker": "eTickets\\Startup.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Startup.cs",
+              "RelativeToolTip": "eTickets\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:03:15.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\appsettings.json",
+              "RelativeDocumentMoniker": "eTickets\\appsettings.json",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\appsettings.json",
+              "RelativeToolTip": "eTickets\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-09T11:50:07.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IActorsService.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\IActorsService.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Services\\IActorsService.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\IActorsService.cs",
+              "RelativeToolTip": "eTickets\\Data\\Services\\IActorsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActorsService.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\ActorsService.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Services\\ActorsService.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\ActorsService.cs",
+              "RelativeToolTip": "eTickets\\Data\\Services\\ActorsService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:07.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "profile.arm.json",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Properties\\ServiceDependencies\\etickets-app - Web Deploy\\profile.arm.json",
+              "RelativeDocumentMoniker": "eTickets\\Properties\\ServiceDependencies\\etickets-app - Web Deploy\\profile.arm.json",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Properties\\ServiceDependencies\\etickets-app - Web Deploy\\profile.arm.json",
+              "RelativeToolTip": "eTickets\\Properties\\ServiceDependencies\\etickets-app - Web Deploy\\profile.arm.json",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAE8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-09T16:43:32.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswCEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-09T16:53:16.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "eTickets\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Properties\\launchSettings.json",
+              "RelativeToolTip": "eTickets\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-09T11:58:17.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "eTickets\\appsettings.Development.json",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\appsettings.Development.json",
+              "RelativeToolTip": "eTickets\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-09T11:50:17.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "eTickets\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvx0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderCompleted.cshtml",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Views\\Orders\\OrderCompleted.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Orders\\OrderCompleted.cshtml",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Views\\Orders\\OrderCompleted.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Orders\\OrderCompleted.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T16:44:30.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T16:44:30.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Views\\Account\\Users.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Account\\Users.cshtml",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Views\\Account\\Users.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Account\\Users.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T16:44:25.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20210926145215_ShoppingCartItems_Added.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Migrations\\20210926145215_ShoppingCartItems_Added.cs",
+              "RelativeDocumentMoniker": "eTickets\\Migrations\\20210926145215_ShoppingCartItems_Added.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Migrations\\20210926145215_ShoppingCartItems_Added.cs",
+              "RelativeToolTip": "eTickets\\Migrations\\20210926145215_ShoppingCartItems_Added.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:43:15.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterCompleted.cshtml",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Views\\Account\\RegisterCompleted.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Account\\RegisterCompleted.cshtml",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Views\\Account\\RegisterCompleted.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Account\\RegisterCompleted.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T12:19:35.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T12:19:34.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T11:50:07.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20210521151534_NameFixProducer.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Migrations\\20210521151534_NameFixProducer.cs",
+              "RelativeDocumentMoniker": "eTickets\\Migrations\\20210521151534_NameFixProducer.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Migrations\\20210521151534_NameFixProducer.cs",
+              "RelativeToolTip": "eTickets\\Migrations\\20210521151534_NameFixProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:43:17.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20210521151101_Initial.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Migrations\\20210521151101_Initial.cs",
+              "RelativeDocumentMoniker": "eTickets\\Migrations\\20210521151101_Initial.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Migrations\\20210521151101_Initial.cs",
+              "RelativeToolTip": "eTickets\\Migrations\\20210521151101_Initial.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:43:17.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NewMovieVM.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\ViewModels\\NewMovieVM.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\ViewModels\\NewMovieVM.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\ViewModels\\NewMovieVM.cs",
+              "RelativeToolTip": "eTickets\\Data\\ViewModels\\NewMovieVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NewMovieDropdownsVM.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\ViewModels\\NewMovieDropdownsVM.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\ViewModels\\NewMovieDropdownsVM.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\ViewModels\\NewMovieDropdownsVM.cs",
+              "RelativeToolTip": "eTickets\\Data\\ViewModels\\NewMovieDropdownsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\ViewModels\\LoginVM.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "eTickets\\Data\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:07.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShoppingCartSummary.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\ViewComponents\\ShoppingCartSummary.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\ViewComponents\\ShoppingCartSummary.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\ViewComponents\\ShoppingCartSummary.cs",
+              "RelativeToolTip": "eTickets\\Data\\ViewComponents\\ShoppingCartSummary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Static\\UserRoles.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Static\\UserRoles.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Static\\UserRoles.cs",
+              "RelativeToolTip": "eTickets\\Data\\Static\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CinemasService.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\CinemasService.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Services\\CinemasService.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\CinemasService.cs",
+              "RelativeToolTip": "eTickets\\Data\\Services\\CinemasService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MovieCategory.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Enums\\MovieCategory.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Enums\\MovieCategory.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Enums\\MovieCategory.cs",
+              "RelativeToolTip": "eTickets\\Data\\Enums\\MovieCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:07.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Cart\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Cart\\ShoppingCart.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Cart\\ShoppingCart.cs",
+              "RelativeToolTip": "eTickets\\Data\\Cart\\ShoppingCart.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:07.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CinemasController.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Controllers\\CinemasController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\CinemasController.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Controllers\\CinemasController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\CinemasController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:07.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ActorsController.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Controllers\\ActorsController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\ActorsController.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Controllers\\ActorsController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\ActorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:07.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:07.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProducersController.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Controllers\\ProducersController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\ProducersController.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Controllers\\ProducersController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\ProducersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:07.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppDbInitializer.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\AppDbInitializer.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\AppDbInitializer.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\AppDbInitializer.cs",
+              "RelativeToolTip": "eTickets\\Data\\AppDbInitializer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAawBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20210926144211_Order_And_OrderItem_Added.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Migrations\\20210926144211_Order_And_OrderItem_Added.cs",
+              "RelativeDocumentMoniker": "eTickets\\Migrations\\20210926144211_Order_And_OrderItem_Added.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Migrations\\20210926144211_Order_And_OrderItem_Added.cs",
+              "RelativeToolTip": "eTickets\\Migrations\\20210926144211_Order_And_OrderItem_Added.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:43:16.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20211005103511_Identity_Added.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Migrations\\20211005103511_Identity_Added.cs",
+              "RelativeDocumentMoniker": "eTickets\\Migrations\\20211005103511_Identity_Added.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Migrations\\20211005103511_Identity_Added.cs",
+              "RelativeToolTip": "eTickets\\Migrations\\20211005103511_Identity_Added.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:43:15.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "eTickets\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "eTickets\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:59:04.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LICENSE.txt",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\wwwroot\\lib\\jquery\\LICENSE.txt",
+              "RelativeDocumentMoniker": "eTickets\\wwwroot\\lib\\jquery\\LICENSE.txt",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\wwwroot\\lib\\jquery\\LICENSE.txt",
+              "RelativeToolTip": "eTickets\\wwwroot\\lib\\jquery\\LICENSE.txt",
+              "ViewState": "AQIAACIAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-09T12:54:32.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LICENSE.txt",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+              "RelativeDocumentMoniker": "eTickets\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+              "RelativeToolTip": "eTickets\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-09T12:54:34.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:07.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IEntityBaseRepository.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Base\\IEntityBaseRepository.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Base\\IEntityBaseRepository.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Base\\IEntityBaseRepository.cs",
+              "RelativeToolTip": "eTickets\\Data\\Base\\IEntityBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IEntityBase.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Base\\IEntityBase.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Base\\IEntityBase.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Base\\IEntityBase.cs",
+              "RelativeToolTip": "eTickets\\Data\\Base\\IEntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EntityBaseRepository.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Base\\EntityBaseRepository.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Base\\EntityBaseRepository.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Base\\EntityBaseRepository.cs",
+              "RelativeToolTip": "eTickets\\Data\\Base\\EntityBaseRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "eTickets\\Data\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProducersService.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\ProducersService.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Services\\ProducersService.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\ProducersService.cs",
+              "RelativeToolTip": "eTickets\\Data\\Services\\ProducersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\OrdersService.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Services\\OrdersService.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\OrdersService.cs",
+              "RelativeToolTip": "eTickets\\Data\\Services\\OrdersService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MoviesService.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\MoviesService.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Services\\MoviesService.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\MoviesService.cs",
+              "RelativeToolTip": "eTickets\\Data\\Services\\MoviesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IProducersService.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\IProducersService.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Services\\IProducersService.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\IProducersService.cs",
+              "RelativeToolTip": "eTickets\\Data\\Services\\IProducersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IOrdersService.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\IOrdersService.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Services\\IOrdersService.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\IOrdersService.cs",
+              "RelativeToolTip": "eTickets\\Data\\Services\\IOrdersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IMoviesService.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\IMoviesService.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Services\\IMoviesService.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\IMoviesService.cs",
+              "RelativeToolTip": "eTickets\\Data\\Services\\IMoviesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ICinemasService.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\ICinemasService.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\Services\\ICinemasService.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\Services\\ICinemasService.cs",
+              "RelativeToolTip": "eTickets\\Data\\Services\\ICinemasService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:06.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ShoppingCartVM.cs",
+              "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\ViewModels\\ShoppingCartVM.cs",
+              "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\Data\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeToolTip": "eTickets\\Data\\ViewModels\\ShoppingCartVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:50:07.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

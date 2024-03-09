@@ -9,8 +9,9 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Configuration;
+
 using Microsoft.Extensions.Hosting;
 using System;
 using System.Collections.Generic;
@@ -33,8 +34,12 @@ namespace eTickets
         {
 
             //DbContext configuration
-            services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnectionString")));
+            var connectionString = "server=localhost;port=3307;database=movie;uid=root;password=0898522510;";
+            var optionsBuilder = new DbContextOptionsBuilder<AppDbContext>();
+            optionsBuilder.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
 
+            services.AddDbContext<AppDbContext>(options =>
+                 options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
             //Services configuration
             services.AddScoped<IActorsService, ActorsService>();
             services.AddScoped<IProducersService, ProducersService>();
