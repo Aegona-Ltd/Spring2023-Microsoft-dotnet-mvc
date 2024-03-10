@@ -222,7 +222,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "eTickets",
+              "Title": "eTickets.csproj",
               "DocumentMoniker": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\eTickets.csproj",
               "RelativeDocumentMoniker": "eTickets\\eTickets.csproj",
               "ToolTip": "D:\\gitlab\\Spring2023-Microsoft-dotnet-mvc\\movie_mvc\\eTickets\\eTickets.csproj",
@@ -230,8 +230,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-03-09T16:49:43.84Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -243,8 +242,7 @@
               "RelativeToolTip": "eTickets\\Program.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T16:44:33.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T16:44:33.387Z"
             },
             {
               "$type": "Document",
@@ -269,8 +267,7 @@
               "RelativeToolTip": "eTickets\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-09T11:50:07.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:07.028Z"
             },
             {
               "$type": "Document",
@@ -282,8 +279,7 @@
               "RelativeToolTip": "eTickets\\Data\\Services\\IActorsService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.996Z"
             },
             {
               "$type": "Document",
@@ -295,8 +291,7 @@
               "RelativeToolTip": "eTickets\\Data\\Services\\ActorsService.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAmwAoAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:07.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:07.002Z"
             },
             {
               "$type": "Document",
@@ -308,8 +303,7 @@
               "RelativeToolTip": "eTickets\\Properties\\ServiceDependencies\\etickets-app - Web Deploy\\profile.arm.json",
               "ViewState": "AQIAAEUAAAAAAAAAAAAAAE8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-09T16:43:32.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T16:43:32.693Z"
             },
             {
               "$type": "Document",
@@ -319,8 +313,7 @@
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "ViewState": "AQIAABwAAAAAAAAAAAAswCEAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-03-09T16:53:16.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T16:53:16.666Z"
             },
             {
               "$type": "Document",
@@ -332,8 +325,7 @@
               "RelativeToolTip": "eTickets\\Properties\\launchSettings.json",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-09T11:58:17.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:58:17.541Z"
             },
             {
               "$type": "Document",
@@ -345,8 +337,7 @@
               "RelativeToolTip": "eTickets\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-09T11:50:17.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:17.832Z"
             },
             {
               "$type": "Document",
@@ -358,8 +349,7 @@
               "RelativeToolTip": "eTickets\\Data\\AppDbContext.cs",
               "ViewState": "AQIAABcAAAAAAAAAAADwvx0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.946Z"
             },
             {
               "$type": "Document",
@@ -371,8 +361,7 @@
               "RelativeToolTip": "eTickets\\Views\\Orders\\OrderCompleted.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-09T16:44:30.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T16:44:30.899Z"
             },
             {
               "$type": "Document",
@@ -384,8 +373,7 @@
               "RelativeToolTip": "eTickets\\Views\\Orders\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-09T16:44:30.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T16:44:30.354Z"
             },
             {
               "$type": "Document",
@@ -397,8 +385,7 @@
               "RelativeToolTip": "eTickets\\Views\\Account\\Users.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-09T16:44:25.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T16:44:25.826Z"
             },
             {
               "$type": "Document",
@@ -410,8 +397,7 @@
               "RelativeToolTip": "eTickets\\Migrations\\20210926145215_ShoppingCartItems_Added.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T16:43:15.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T16:43:15.691Z"
             },
             {
               "$type": "Document",
@@ -423,8 +409,7 @@
               "RelativeToolTip": "eTickets\\Views\\Account\\RegisterCompleted.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-09T12:19:35.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T12:19:35.681Z"
             },
             {
               "$type": "Document",
@@ -436,8 +421,7 @@
               "RelativeToolTip": "eTickets\\Views\\Account\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-09T12:19:34.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T12:19:34.983Z"
             },
             {
               "$type": "Document",
@@ -449,8 +433,7 @@
               "RelativeToolTip": "eTickets\\Views\\Account\\Login.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-09T11:50:07.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:07.024Z"
             },
             {
               "$type": "Document",
@@ -462,8 +445,7 @@
               "RelativeToolTip": "eTickets\\Migrations\\20210521151534_NameFixProducer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T16:43:17.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T16:43:17.059Z"
             },
             {
               "$type": "Document",
@@ -475,8 +457,7 @@
               "RelativeToolTip": "eTickets\\Migrations\\20210521151101_Initial.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T16:43:17.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T16:43:17.786Z"
             },
             {
               "$type": "Document",
@@ -488,8 +469,7 @@
               "RelativeToolTip": "eTickets\\Data\\ViewModels\\NewMovieVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.965Z"
             },
             {
               "$type": "Document",
@@ -501,8 +481,7 @@
               "RelativeToolTip": "eTickets\\Data\\ViewModels\\NewMovieDropdownsVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.968Z"
             },
             {
               "$type": "Document",
@@ -514,8 +493,7 @@
               "RelativeToolTip": "eTickets\\Data\\ViewModels\\LoginVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:07.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:07.03Z"
             },
             {
               "$type": "Document",
@@ -527,8 +505,7 @@
               "RelativeToolTip": "eTickets\\Data\\ViewComponents\\ShoppingCartSummary.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.97Z"
             },
             {
               "$type": "Document",
@@ -540,8 +517,7 @@
               "RelativeToolTip": "eTickets\\Data\\Static\\UserRoles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.973Z"
             },
             {
               "$type": "Document",
@@ -553,8 +529,7 @@
               "RelativeToolTip": "eTickets\\Data\\Services\\CinemasService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.999Z"
             },
             {
               "$type": "Document",
@@ -566,8 +541,7 @@
               "RelativeToolTip": "eTickets\\Data\\Enums\\MovieCategory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:07.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:07.005Z"
             },
             {
               "$type": "Document",
@@ -579,8 +553,7 @@
               "RelativeToolTip": "eTickets\\Data\\Cart\\ShoppingCart.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.955Z"
             },
             {
               "$type": "Document",
@@ -592,8 +565,7 @@
               "RelativeToolTip": "eTickets\\Controllers\\MoviesController.cs",
               "ViewState": "AQIAAHQAAAAAAAAAAAAcwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:07.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:07.016Z"
             },
             {
               "$type": "Document",
@@ -605,8 +577,7 @@
               "RelativeToolTip": "eTickets\\Controllers\\CinemasController.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAiwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:07.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:07.013Z"
             },
             {
               "$type": "Document",
@@ -618,8 +589,7 @@
               "RelativeToolTip": "eTickets\\Controllers\\ActorsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:07.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:07.022Z"
             },
             {
               "$type": "Document",
@@ -631,8 +601,7 @@
               "RelativeToolTip": "eTickets\\Controllers\\OrdersController.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAIwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:07.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:07.01Z"
             },
             {
               "$type": "Document",
@@ -644,8 +613,7 @@
               "RelativeToolTip": "eTickets\\Controllers\\ProducersController.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:07.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:07.007Z"
             },
             {
               "$type": "Document",
@@ -657,8 +625,7 @@
               "RelativeToolTip": "eTickets\\Data\\AppDbInitializer.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAawBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.705Z"
             },
             {
               "$type": "Document",
@@ -670,8 +637,7 @@
               "RelativeToolTip": "eTickets\\Migrations\\20210926144211_Order_And_OrderItem_Added.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T16:43:16.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T16:43:16.347Z"
             },
             {
               "$type": "Document",
@@ -683,8 +649,7 @@
               "RelativeToolTip": "eTickets\\Migrations\\20211005103511_Identity_Added.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T16:43:15.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T16:43:15.098Z"
             },
             {
               "$type": "Document",
@@ -696,8 +661,7 @@
               "RelativeToolTip": "eTickets\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:59:04.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:59:04.913Z"
             },
             {
               "$type": "Document",
@@ -709,8 +673,7 @@
               "RelativeToolTip": "eTickets\\wwwroot\\lib\\jquery\\LICENSE.txt",
               "ViewState": "AQIAACIAAAAAAAAAAABBwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-09T12:54:32.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T12:54:32.948Z"
             },
             {
               "$type": "Document",
@@ -722,8 +685,7 @@
               "RelativeToolTip": "eTickets\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-09T12:54:34.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T12:54:34.42Z"
             },
             {
               "$type": "Document",
@@ -735,8 +697,7 @@
               "RelativeToolTip": "eTickets\\Controllers\\AccountController.cs",
               "ViewState": "AQIAAFQAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:07.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:07.019Z"
             },
             {
               "$type": "Document",
@@ -748,8 +709,7 @@
               "RelativeToolTip": "eTickets\\Data\\Base\\IEntityBaseRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.953Z"
             },
             {
               "$type": "Document",
@@ -761,8 +721,7 @@
               "RelativeToolTip": "eTickets\\Data\\Base\\IEntityBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.95Z"
             },
             {
               "$type": "Document",
@@ -774,8 +733,7 @@
               "RelativeToolTip": "eTickets\\Data\\Base\\EntityBaseRepository.cs",
               "ViewState": "AQIAACUAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.958Z"
             },
             {
               "$type": "Document",
@@ -787,8 +745,7 @@
               "RelativeToolTip": "eTickets\\Data\\ViewModels\\RegisterVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.962Z"
             },
             {
               "$type": "Document",
@@ -800,8 +757,7 @@
               "RelativeToolTip": "eTickets\\Data\\Services\\ProducersService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.977Z"
             },
             {
               "$type": "Document",
@@ -813,8 +769,7 @@
               "RelativeToolTip": "eTickets\\Data\\Services\\OrdersService.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAiwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.98Z"
             },
             {
               "$type": "Document",
@@ -826,8 +781,7 @@
               "RelativeToolTip": "eTickets\\Data\\Services\\MoviesService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.982Z"
             },
             {
               "$type": "Document",
@@ -839,8 +793,7 @@
               "RelativeToolTip": "eTickets\\Data\\Services\\IProducersService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.985Z"
             },
             {
               "$type": "Document",
@@ -852,8 +805,7 @@
               "RelativeToolTip": "eTickets\\Data\\Services\\IOrdersService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.987Z"
             },
             {
               "$type": "Document",
@@ -865,8 +817,7 @@
               "RelativeToolTip": "eTickets\\Data\\Services\\IMoviesService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.99Z"
             },
             {
               "$type": "Document",
@@ -878,8 +829,7 @@
               "RelativeToolTip": "eTickets\\Data\\Services\\ICinemasService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:06.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:06.993Z"
             },
             {
               "$type": "Document",
@@ -891,8 +841,7 @@
               "RelativeToolTip": "eTickets\\Data\\ViewModels\\ShoppingCartVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:50:07.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T11:50:07.033Z"
             }
           ]
         }
